@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:paranoidAndroid0124/comp3005final.git
+[submodule "fonrtend"]
+	path = fonrtend
+	url = git@github.com:paranoidAndroid0124/comp3005final_frontend.git
