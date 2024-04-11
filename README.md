@@ -16,6 +16,11 @@ git clone --recurse-submodules git@github.com:paranoidAndroid0124/comp3005_merge
 ```
 Note: the "--recurse-submodules" flag ensures that the frontend and backend are initialized and cloned with the main repository.
 
+#### Update submodule only
+```bash
+git submodule update --remote
+```
+
 # Running the Project
 
 Open a terminal inside the cloned git repository
