@@ -64,8 +64,8 @@ There is no single accepted technique for converting an Entity-Relation (ER) mod
 - Entity conversion: Ech entity in the ER model were converted into a table. The attributes were added as columns of the table, and the primary key of the entity were added as primary key to the table.
 
 2. Convert Relationships to tables
-- One-to-one Relationships (1:1): The primary key of one enity as added a foreign key in the other entity's table. However, if the attributes were only associated with itself it was added as a seperate table.
-- One-to-Many Relationships (1:N): The primary key of the "one" enity was used a foreign key in many table.
+- One-to-one Relationships (1:1): The primary key of one entity as added a foreign key in the other entity's table. However, if the attributes were only associated with itself it was added as a seperate table.
+- One-to-Many Relationships (1:N): The primary key of the "one" entity was used a foreign key in many table.
 - Many-to-Many (M:N): A new table was created to represent the Relationship. The table included the primary key of the entities involved as a foreign key. 
 
 3. Convert Attributes
@@ -74,6 +74,9 @@ There is no single accepted technique for converting an Entity-Relation (ER) mod
 - Derived Attributes: Derived attributes were not added and computed at runtime.
 
 // TODO: add ER model
+
+![This is an image](./sql_diagram.png "SQL diagram")
+
 
 ### DDL File
 
