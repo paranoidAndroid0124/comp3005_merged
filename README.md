@@ -105,15 +105,19 @@ This web application employs a modern and efficient technology stack designed to
 
 ### Bonus Features
 
-// TODO: rewrite this / clean up
+#### Nice to have
+
+- Graphical calendar allowing for ease of use of the scheduling system
 
 #### Industry Standards and Modern Development Practices
 
 - Seperated project for the frontend and backend allowing for independent deploy of the each component.
 
-- CORS was impleted to allow the frontend and backend to talk correctly.
+- CORS was implemented to allow the frontend and backend to talk correctly.
 
-- TypeScipt: Typescipt is commonly used in the industry to ensure type safety.
+- TypeScript: Typescript is commonly used in the industry to ensure type safety.
+
+- React: React is a commonly used front end framework. It allows to dynamic and interactive web apps.
 
 #### Security
 
