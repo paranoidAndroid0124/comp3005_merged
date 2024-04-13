@@ -73,9 +73,11 @@ There is no single accepted technique for converting an Entity-Relation (ER) mod
 - Multi-valued Attributes: Multi-valued attributes were added as seperate tables. A foreign key linking back to the original entity and new column(s) for any additonal attributes were added.
 - Derived Attributes: Derived attributes were not added and computed at runtime.
 
-// TODO: add ER model
+![This is an image](./pulse_performance_ER_Diagram.png "SQL diagram")
+Figure 1: ER model for Pulse Performance
 
 ![This is an image](./sql_diagram.png "SQL diagram")
+Figure 2: Schema diagram for Pulse Performance
 
 
 ### DDL File
