@@ -3,6 +3,9 @@ Vincent Gagnon 101052796, Yufeng Liu 101258905
 
 Welcome to our comp 3005 final project called Pulse Performance! This project is structured to include two components as Git submodules: the frontend (React) and backend (drizzle). This setup allows for modular development and deployment of the application. 
 
+[Link to YouTube video](https://youtu.be/WThCrTjBaEw)
+
+
 # Getting Started
 
 To begin using this repository and its submodules, follow these steps:
