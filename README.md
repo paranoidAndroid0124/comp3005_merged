@@ -76,7 +76,7 @@ There is no single accepted technique for converting an Entity-Relation (ER) mod
 ![This is an image](./pulse_performance_ER_Diagram.png "SQL diagram")
 Figure 1: ER model for Pulse Performance
 
-![This is an image](./sql_diagram.png "SQL diagram")
+![This is an image](./pulsePerformace.png "SQL diagram")
 Figure 2: Schema diagram for Pulse Performance
 
 
